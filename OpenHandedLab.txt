@@ -1,0 +1,20 @@
+ADIL KHAN - Foundation University C++ Project
+
+Overview
+This C++ program demonstrates the use of Object-Oriented Programming (OOP) concepts and console graphics to display a name and university name using asterisk (*) patterns. 
+It uses cursor positioning through the `gotoxy()` function and introduces basic animation using `Sleep()` for smooth letter drawing.
+
+Features
+1. Displays the name "ADIL KHAN" in asterisk pattern.
+2. Displays "FOUNDATION UNIVERSITY" below it.
+3. Uses cursor movement (gotoxy) for proper alignment.
+4. Includes small animation delays for better visual presentation.
+
+How to Run
+1. Make sure `gotoxy.h` is in the same directory as this `.cpp` file.
+2. Compile and run the program in a Windows-based C++ environment.
+3. The console will display the name and university name in animated star patterns.
+
+Author
+Adil Khan  
+Foundation University
